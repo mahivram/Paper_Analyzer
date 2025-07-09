@@ -19,7 +19,7 @@ Just Load YOur Papers(pdf form) in /papers and run main.py
 ### 1. Clone the repository
 
 bash
-git clone https://github.com/yourusername/paper-analyzer.git
+git clone https://github.com/mahivram/Paper_Analyzer.git
 cd paper-analyzer
 
 
