@@ -1,4 +1,4 @@
-# 📚 Paper Analyzer Backend (Mistral-Powered)
+# 📚 Paper Analyzer (Mistral-Powered)
 
 This project is a pure Python backend that uses the Mistral AI API to analyze exam questions and extract the most frequently occurring high-level topics. It's perfect for competitive exams, semester question paper analysis, and education-focused AI applications.
 
