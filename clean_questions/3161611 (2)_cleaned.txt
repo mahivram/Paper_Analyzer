@@ -1,0 +1,50 @@
+List out the basic features of MongoDB.
+
+Discuss advantageous and disadvantageous of JavaScript.
+
+What is CSS? Explain different types of CSS. List out advantages and disadvantages of CSS.
+
+Classify the basic selectors with example in CSS.
+
+Differentiate between Angular JS and Node JS.
+
+What does DOM mean? What are the different ways to get an element from DOM?
+
+Explain Node JS streams in detail.
+
+Differentiate between Client-Side Scripting and Server-Side Scripting.
+
+Explain REPL in context of Node. Show the difference of using var and not using var in REPL.
+
+Explain use of ng-controller directive in context of Angular JS with suitable example.
+
+Define following AngularJS concepts i. ng-app ii. ng-model iii. ng-bind.
+
+Explain Angular JS Module with syntax.
+
+Explain Node JS event-driven programming with suitable example.
+
+Explain any three Angular JS services in brief.
+
+Justify “Node.js Single-threaded”.
+
+Show how to insert, find and delete data or document in collection using NodeJS- MongoDB.
+
+What is Bootstrap? Give applications of it.
+
+Explain two types of data model provided by MongoDB.
+
+Demonstrate the use of ng-route directive with suitable example.
+
+What do you mean by Asynchronous API?
+
+Write JavaScript Program to Check whether the given no is Prime or not.
+
+Explain Node JS buffers in detail.
+
+What are AngularJS expressions?
+
+Demonstrate the two way data binding method with suitable example.
+
+Explain How will you read a file using Node and How will you create a directory?
+

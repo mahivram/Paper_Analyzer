@@ -1,0 +1,36 @@
+Explain the use of CSS with suitable example.
+Write a note on angular JS.
+What is the use of JavaScript? List and discuss the advantages of JavaScript.
+Define Angular JS directives: ng-app, ng-model and ng-bind.
+Write CSS code to display various border properties.
+Discuss error handling in JavaScript using suitable example.
+Write a note on various dialog boxes of JavaScript with example.
+Write a note on CSS padding using suitable example.
+Write a note on MVC architecture of Angular JS.
+Explain Angular JS events using suitable example.
+What is the use of Node JS?
+Write a note on HTML DOM of Angular JS.
+List and discuss various filters used in Angular JS.
+
+List and discuss features of Node JS.
+
+Write a Node JS code to create a server.
+
+Write a short note on Network module in Node JS.
+
+Discuss NPM (Node Package Manager) in Node JS.
+
+What is stream? Write node JS code to read from stream.
+
+Write the applications of Angular JS.
+
+Write the differences between Application and controller modules in Angular JS.
+
+Write Node JS programs for database connectivity with MongoDB including insert operation in MySQL database.
+
+Write a note on MongoDB.
+
+Discuss: sessions and cookies.
+
+Explain piping and chaining of streams with example.
+

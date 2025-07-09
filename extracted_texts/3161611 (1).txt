@@ -1,0 +1,49 @@
+GUJARAT TECHNOLOGICAL UNIVERSITY
+BE - SEMESTER–VI (NEW) EXAMINATION – SUMMER 2024
+S ubject Code: 3161611 Date:24-05-2024
+Subject Name: Advanced Web Programming
+Time: 10:30 AM TO 01:00 PM Total Marks:70
+I nstructions:
+1. Attempt all questions.
+2. Make suitable assumptions wherever necessary.
+3. Figures to the right indicate full marks.
+4. Simple and non-programmable scientific calculators are allowed.
+MARKS
+Q.1 (a) Discuss any three JavaScript inbuilt objects. 03
+(b) Discuss the DOM tree and DOM methods in brief. 04
+(c) Explain different types of CSS with examples and their advantages. 07
+Q.2 (a) Discuss any two services available in Angular JS. 03
+(b) Discuss the different advantages and disadvantages of Angular JS. 04
+(c) Discuss MVC architecture in Angular JS with a suitable example. 07
+OR
+(c) Write a JavaScript program for password verification. 07
+Q.3 (a) Discuss the usage of $valid and $invalid. 03
+(b) Explain the use of the ng-bind and ng-model directives with a 04
+suitable example.
+(c) Write an Angular JS program that takes a number as an input and 07
+displays whether it is positive, negative, or zero.
+OR
+Q.3 (a) Discuss the usage of the ng-hide and ng-click directives. 03
+(b) Discuss $pristine and $dirty used for form validation in Angular JS. 04
+(c) Explain one way data binding with a suitable Angular JS example. 07
+Q.4 (a) Discuss the process of installing packages in the Node JS 03
+environment.
+(b) Explain the singleton design pattern with an example. 04
+(c) Explain the concept of callbacks in Node JS with a suitable example. 07
+OR
+Q.4 (a) Discuss the usefulness of the Express framework in a Node JS 03
+environment.
+(b) Discuss the concept of timers in Node JS in detail. 04
+(c) 07
+Explain the concept of an event emitter with a suitable example.
+Q.5 (a) Discuss various features of Node JS. 03
+(b) Discuss connection operations between Node JS and MongoDB. 04
+(c) Explain deletion database operations using Node JS and MongoDB. 07
+OR
+Q.5 (a) Discuss the various data types used in MongoDB. 03
+(b) Discuss NoSQL databases in brief and also differentiate between 04
+NoSQL and relational databases.
+(c) Discuss the process of configuring routing information using 07
+Angular JS.
+*************
+

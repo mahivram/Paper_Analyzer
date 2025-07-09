@@ -1,0 +1,25 @@
+Explain Node JS streams in detail.
+Discuss any three JavaScript inbuilt objects
+Discuss the DOM tree and DOM methods in brief
+Explain different types of CSS with examples and their advantages
+Discuss any two services available in Angular JS
+Discuss the different advantages and disadvantages of Angular JS
+Discuss MVC architecture in Angular JS with a suitable example
+Write a JavaScript program for password verification
+Discuss the usage of $valid and $invalid
+Explain the use of the ng-bind and ng-model directives with a suitable example
+Write an Angular JS program that takes a number as an input and displays whether it is positive, negative, or zero
+Discuss the usage of the ng-hide and ng-click directives
+Discuss $pristine and $dirty
+Explain one way data binding with a suitable Angular JS example.
+Discuss the process of installing packages in the Node JS environment.
+Explain the singleton design pattern with an example.
+Explain the concept of callbacks in Node JS with a suitable example.
+Discuss the usefulness of the Express framework in a Node JS environment.
+Discuss the concept of timers in Node JS in detail.
+Explain the concept of an event emitter with a suitable example.
+Discuss various features of Node JS.
+Discuss connection operations between Node JS and MongoDB.
+Explain deletion database operations using Node JS and MongoDB.
+Discuss the various data types used in MongoDB.
+Discuss NoSQL databases in brief and also differentiate between NoSQL and relational databases.
